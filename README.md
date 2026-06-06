@@ -1,6 +1,6 @@
 # Hi I'm Nathaniel F. Camacho
 
-I'm a Computer Science student at **LPU Cavite**, driven by curiosity and a passion for continuous learning. I'm always motivated to expand my knowledge and refine the skills I already have.
+I'm currently an upcoming 4th-year Computer Science student at **LPU Cavite**, driven by curiosity and a passion for continuous learning. I'm always motivated to expand my knowledge and refine the skills I already have.
 
 ## Interests & Expertise
 
