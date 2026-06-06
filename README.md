@@ -13,7 +13,8 @@ I'm a Computer Science student at **LPU Cavite**, driven by curiosity and a pass
 
 - Currently studying Computer Science at LPU Cavite
 - Always learning new technologies and methodologies
-- Working on projects that combine my interests and hone my skills
+- Working on projects that combine my interests
+- Actively polishing and learning new skills
 - Running and Ricing an Arch Linux
 
 ## Certifications
