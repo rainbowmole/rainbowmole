@@ -17,7 +17,7 @@ I'm a Computer Science student at **LPU Cavite**, driven by curiosity and a pass
 - Running and Ricing an Arch Linux
 
 ## Certifications
-![alt text](./it-specialist-python.png)
+![alt text](./it-specialist-python.png){width=300 height=300}
 
 ## Let's Connect
 
