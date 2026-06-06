@@ -13,11 +13,15 @@ I'm a Computer Science student at **LPU Cavite**, driven by curiosity and a pass
 
 - Currently studying Computer Science at LPU Cavite
 - Always learning new technologies and methodologies
-- Working on projects that combine my interests
-- Running Arch Linux
+- Working on projects that combine my interests and hone my skills
+- Running and Ricing an Arch Linux
+
+## Certifications
+![alt text](./path/to/it-specialist-python.png)
 
 ## Let's Connect
 
 - Feel free to explore my repositories
 - Open to collaborations and discussions
 - Interested in innovative projects
+
