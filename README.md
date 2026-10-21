@@ -19,7 +19,7 @@ I'm currently an upcoming 4th-year Computer Science student at **LPU Cavite**, d
 
 ## Certifications
 <img src="./it-specialist-python.png" width="150" alt="IT Specialist Python Certification">
-<img src="./Certified Artificial Intelligence Professional (CAIP)-BSCS_page_0001.jpg" alt="Certified Artificial Intelligence Professional">
+<img src="./'Certified Artificial Intelligence Professional (CAIP)-BSCS_page_0001.jpg'" alt="Certified Artificial Intelligence Professional">
 
 ## Let's Connect
 
